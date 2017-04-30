@@ -1,2 +1,2 @@
-# mini-calendar 原生js日历
+# mini-calendar
 
